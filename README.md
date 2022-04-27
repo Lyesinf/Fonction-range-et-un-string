@@ -1,0 +1,1 @@
+# Fonction-range-et-un-string
